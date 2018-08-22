@@ -1,0 +1,319 @@
+{
+    "testes": [
+        {
+            "funcionalidade": "test_busca_colecao_homem",
+            "teste": {
+                "200": 262,
+                "400": 0,
+                "401": 0,
+                "500": 0,
+                "min": 459,
+                "max": 35842.9,
+                "median": 7477.254545454544,
+                "ETIMEDOUT": 292,
+                "ECONNRESET": 44,
+                "ESOCKETTIMEDOUT": 2
+            }
+        },
+        {
+            "funcionalidade": "test_busca_colecao_lancamentos",
+            "teste": {
+                "200": 306,
+                "400": 0,
+                "401": 0,
+                "500": 0,
+                "min": 378.2,
+                "max": 30442.1,
+                "median": 7184.741666666668,
+                "ETIMEDOUT": 277,
+                "ECONNRESET": 16,
+                "ESOCKETTIMEDOUT": 1
+            }
+        },
+        {
+            "funcionalidade": "test_busca_colecao_mulher",
+            "teste": {
+                "200": 271,
+                "400": 0,
+                "401": 0,
+                "500": 0,
+                "min": 387.8,
+                "max": 30815.4,
+                "median": 8392.141666666668,
+                "ETIMEDOUT": 300,
+                "ECONNRESET": 29,
+                "ESOCKETTIMEDOUT": 0
+            }
+        },
+        {
+            "funcionalidade": "test_busca_colecao_outlet",
+            "teste": {
+                "200": 209,
+                "400": 0,
+                "401": 0,
+                "500": 0,
+                "min": 442.5,
+                "max": 105899.1,
+                "median": 7444.808333333333,
+                "ETIMEDOUT": 371,
+                "ECONNRESET": 20,
+                "ESOCKETTIMEDOUT": 0
+            }
+        },
+        {
+            "funcionalidade": "test_busca_megamenu_homem_calcados",
+            "teste": {
+                "200": 200,
+                "400": 0,
+                "401": 0,
+                "500": 0,
+                "min": 415.2,
+                "max": 59255.1,
+                "median": 8554.01818181818,
+                "ETIMEDOUT": 374,
+                "ECONNRESET": 25,
+                "ESOCKETTIMEDOUT": 1
+            }
+        },
+        {
+            "funcionalidade": "test_busca_megamenu_homem_calcados_sapatenis",
+            "teste": {
+                "200": 184,
+                "400": 0,
+                "401": 0,
+                "500": 0,
+                "min": 446.3,
+                "max": 93408.4,
+                "median": 8844.633333333333,
+                "ETIMEDOUT": 365,
+                "ECONNRESET": 50,
+                "ESOCKETTIMEDOUT": 1
+            }
+        },
+        {
+            "funcionalidade": "test_busca_megamenu_mulher_calcados",
+            "teste": {
+                "200": 178,
+                "400": 0,
+                "401": 0,
+                "500": 0,
+                "min": 637.3,
+                "max": 99746.4,
+                "median": 9652.766666666668,
+                "ETIMEDOUT": 388,
+                "ECONNRESET": 33,
+                "ESOCKETTIMEDOUT": 1
+            }
+        },
+        {
+            "funcionalidade": "test_busca_megamenu_mulher_roupas",
+            "teste": {
+                "200": 213,
+                "400": 0,
+                "401": 0,
+                "500": 0,
+                "min": 466.5,
+                "max": 36279.2,
+                "median": 9330.408333333333,
+                "ETIMEDOUT": 349,
+                "ECONNRESET": 38,
+                "ESOCKETTIMEDOUT": 0
+            }
+        },
+        {
+            "funcionalidade": "test_cart_inserir_carrinho",
+            "teste": {
+                "200": 429,
+                "400": 7,
+                "401": 396,
+                "500": 6,
+                "min": 29.9,
+                "max": 19552.6,
+                "median": 937.6111111111111,
+                "ETIMEDOUT": 478,
+                "ECONNRESET": 23,
+                "ESOCKETTIMEDOUT": 67
+            }
+        },
+        {
+            "funcionalidade": "test_home",
+            "teste": {
+                "200": 226,
+                "400": 0,
+                "401": 0,
+                "500": 0,
+                "min": 399,
+                "max": 52324.9,
+                "median": 8310.9,
+                "ETIMEDOUT": 348,
+                "ECONNRESET": 26,
+                "ESOCKETTIMEDOUT": 0
+            }
+        },
+        {
+            "funcionalidade": "test_order_2_cartoes",
+            "teste": {
+                "200": 166,
+                "400": 28,
+                "401": 71,
+                "500": 4,
+                "min": 271.5,
+                "max": 19160.5,
+                "median": 3302.681818181819,
+                "ETIMEDOUT": 453,
+                "ECONNRESET": 15,
+                "ESOCKETTIMEDOUT": 59
+            }
+        },
+        {
+            "funcionalidade": "test_order_boleto",
+            "teste": {
+                "200": 238,
+                "400": 43,
+                "401": 48,
+                "500": 11,
+                "min": 291.3,
+                "max": 22751.5,
+                "median": 3783.3222222222225,
+                "ETIMEDOUT": 437,
+                "ECONNRESET": 20,
+                "ESOCKETTIMEDOUT": 59
+            }
+        },
+        {
+            "funcionalidade": "test_order_cartao_de_credito",
+            "teste": {
+                "200": 247,
+                "400": 21,
+                "401": 27,
+                "500": 31,
+                "min": 289.8,
+                "max": 17834.5,
+                "median": 3930.6999999999994,
+                "ETIMEDOUT": 434,
+                "ECONNRESET": 21,
+                "ESOCKETTIMEDOUT": 63
+            }
+        },
+        {
+            "funcionalidade": "test_order_credito_passarela",
+            "teste": {
+                "200": 193,
+                "400": 22,
+                "401": 45,
+                "500": 4,
+                "min": 280.5,
+                "max": 23849,
+                "median": 4279.609090909091,
+                "ETIMEDOUT": 448,
+                "ECONNRESET": 24,
+                "ESOCKETTIMEDOUT": 69
+            }
+        },
+        {
+            "funcionalidade": "test_order_safetypay",
+            "teste": {
+                "200": 152,
+                "400": 11,
+                "401": 35,
+                "500": 5,
+                "min": 236.1,
+                "max": 22552.5,
+                "median": 3741.4299999999994,
+                "ETIMEDOUT": 445,
+                "ECONNRESET": 16,
+                "ESOCKETTIMEDOUT": 96
+            }
+        },
+        {
+            "funcionalidade": "test_profile_profile",
+            "teste": {
+                "200": 240,
+                "400": 455,
+                "401": 240,
+                "500": 2,
+                "min": 223.3,
+                "max": 21685.7,
+                "median": 1952.9333333333332,
+                "ETIMEDOUT": 196,
+                "ECONNRESET": 8,
+                "ESOCKETTIMEDOUT": 99
+            }
+        },
+        {
+            "funcionalidade": "test_search_calcados",
+            "teste": {
+                "200": 175,
+                "400": 0,
+                "401": 0,
+                "500": 0,
+                "min": 414.6,
+                "max": 19528.6,
+                "median": 8139.466666666667,
+                "ETIMEDOUT": 356,
+                "ECONNRESET": 0,
+                "ESOCKETTIMEDOUT": 69
+            }
+        },
+        {
+            "funcionalidade": "test_search_feminino",
+            "teste": {
+                "200": 169,
+                "400": 0,
+                "401": 0,
+                "500": 0,
+                "min": 420.9,
+                "max": 16309.9,
+                "median": 7792.25,
+                "ETIMEDOUT": 346,
+                "ECONNRESET": 0,
+                "ESOCKETTIMEDOUT": 85
+            }
+        },
+        {
+            "funcionalidade": "test_search_infantil",
+            "teste": {
+                "200": 115,
+                "400": 0,
+                "401": 0,
+                "500": 0,
+                "min": 721,
+                "max": 16356.8,
+                "median": 7462.141666666667,
+                "ETIMEDOUT": 425,
+                "ECONNRESET": 0,
+                "ESOCKETTIMEDOUT": 60
+            }
+        },
+        {
+            "funcionalidade": "test_search_masculino",
+            "teste": {
+                "200": 202,
+                "400": 0,
+                "401": 0,
+                "500": 0,
+                "min": 455.9,
+                "max": 20290.9,
+                "median": 5328.433333333333,
+                "ETIMEDOUT": 324,
+                "ECONNRESET": 0,
+                "ESOCKETTIMEDOUT": 74
+            }
+        },
+        {
+            "funcionalidade": "test_search_tenis",
+            "teste": {
+                "200": 203,
+                "400": 0,
+                "401": 0,
+                "500": 0,
+                "min": 492.8,
+                "max": 18966.2,
+                "median": 6118.9,
+                "ETIMEDOUT": 359,
+                "ECONNRESET": 0,
+                "ESOCKETTIMEDOUT": 38
+            }
+        }
+    ]
+}
